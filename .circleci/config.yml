@@ -2,8 +2,6 @@ defaults: &defaults
   working_directory: ~/repo
 version: 2
 
-
-
 references:
   install_awscli: &install_awscli
     run:
