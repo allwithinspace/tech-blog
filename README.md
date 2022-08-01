@@ -1,3 +1,3 @@
-# Allwithinspace Travel Blog - Using Jekyll Alembic theme
+# Allwithinspace Tech Blog - Using Jekyll Alembic theme
 
-Allwithinspace blog site
+Allwithinspace Tech blog site

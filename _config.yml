@@ -23,11 +23,11 @@ plugins:
 # css_inline: true
 
 # Site settings
-url: 'https://thevaram.allwithinspace.com'
+url: 'https://tech.allwithinspace.com'
 baseurl: ''
 encoding: "UTF-8" # Make sure the encoding is right
 title: 'Allwithinspace'
-description: 'Blog site on Thevaram Temples'
+description: 'Blog site on Technology & Distributed Computing'
 #permalink: pretty
 logo: "/assets/logo4.png"
 
@@ -76,8 +76,8 @@ defaults:
 
 # Footer nav
 navigation_footer:
-- title: 'Blog on Thevaram Temples'
-  url: "https://en.wikipedia.org/wiki/Paadal_Petra_Sthalam"
+- title: 'Prasanna\'s Tech Blog'
+  url: ""
 
 contact:
   linkedin:   https://www.linkedin.com/in/sprasannaraman
