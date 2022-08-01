@@ -76,7 +76,7 @@ defaults:
 
 # Footer nav
 navigation_footer:
-- title: 'Prasanna\'s Tech Blog'
+- title: 'Tech Blog'
   url: ""
 
 contact:
