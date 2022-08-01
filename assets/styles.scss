@@ -1,0 +1,61 @@
+---
+title: false
+styles: true
+---
+
+@import "alembic";
+
+.post-tag {
+  display: inline-block;
+  /*background: rgba($color__site--link, 0.1);*/
+  padding-right: 0.5rem;
+  border-radius: 4px;
+  color: blue;
+  &:before {
+    content: "[";
+  }
+  &:after {
+    content: "]";
+  }
+  &:hover {
+    text-decoration: none;
+    background: rgba(cyan, 0.15);
+  }
+}
+
+// Lists
+.list {
+  &--posts {
+    list-style: none;
+  }
+  &--nav {
+    list-style: none;
+  }
+  .item--post {
+    margin-left: 0;
+    padding-bottom: 3%;
+  }
+}
+
+.item {
+  &--nav {
+    display: inline-block;
+    margin-left: 1rem;
+    &:first-of-type {
+      margin-left: 0;
+    }
+  }
+  &--current {
+    a {
+      color: gray;
+    }
+  }
+}
+
+.logo {
+  display: inline-block;
+  line-height: 0;
+  img {
+    height: 3.5rem;
+  }
+}
