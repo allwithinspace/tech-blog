@@ -9,10 +9,10 @@ aside: false
 
 #### :wave: Hello there,
 
-- :pray: Thanks for stopping by this tech blog of mine. It's great :raised_hands: to have you here !!
+- :pray: Thanks for stopping by this tech blog of Prasanna Raman Sridhar. It's great :raised_hands: to have you here !!
 - :man: I'm an enthusiast with Cloud :cloud: and Distrbuted Systems and work as a Principal Architect at [AWS](https://aws.amazon.com)
-- :hearts: I'm passionate about consulting and help businesses scale by accelerating their transformation into digital enterprises
-- :arrow_upper_right: I play technology leadership role with a lot of [customer obsession](https://www.amazon.jobs/en/principles) 
+- :hearts: I'm passionate about consulting and help businesses scale thru their transformation into digital enterprises
+- :arrow_upper_right: I play technology leadership roles with a lot of [customer obsession](https://www.amazon.jobs/en/principles) 
 - :pencil2: Honing my blogging skills (trying :smiley:) 
 - :pushpin: Bookmark this to get some interesting insights on Cloud, Architecture & Digital Transformation
 - :rocket: Space & Universe :wavy_dash: is really awe-inspiring to me
