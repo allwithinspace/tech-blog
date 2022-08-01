@@ -64,8 +64,6 @@ navigation_header:
   url: /
 - title: Blog
   url: /blog/
-- title: About
-  url: /about/
 
 defaults:
   - scope:
