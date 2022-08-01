@@ -7,7 +7,7 @@ feature_text: <h2 style="color:white">~~ Boundless Thoughts ~~</h2>
 aside: false
 ---
 
-Hello there,
+#### Hello there,
 
 - :pray: Thanks for stopping by this tech blog of mine. It's great :raised_hands: to have you here
 - :man: I'm an enthusiast with :cloud: Cloud and Distrbuted Systems and work as a Principal Architect at [AWS](https://aws.amazon.com)
