@@ -12,8 +12,6 @@ tags:
 - cloud
 ---
 
-
-
 Package Control Messages
 ========================
 

@@ -76,6 +76,7 @@ navigation_footer:
 - title: 'Tech Blog'
   url: ""
 
+# Contact
 contact:
   linkedin:   https://www.linkedin.com/in/sprasannaraman
   github:     https://github.com/allwithinspace
