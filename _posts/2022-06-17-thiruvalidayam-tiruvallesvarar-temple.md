@@ -13,8 +13,6 @@ tags:
 - thevaram
 
 ---
-**_\~\~\~ Aum Namah Shivaya \~\~\~_**
-
 **Tiruvalithayam Tiruvallesvarar Temple** is a temple dedicated to Lord Shiva and is one of the "Padal Petra Sthalam".
 
 Lord Shiva is worshiped here as Tiruvalleswarar, Parvathi is worshipped as Jagadambiga.
