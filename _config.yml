@@ -73,8 +73,8 @@ defaults:
 
 # Footer nav
 navigation_footer:
-- title: 'Hosted on Amazon S3, Powered by Jekyll'
-  url: "https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html"
+- title: 'Tech Blog'
+  url: ""
 
 contact:
   linkedin:   https://www.linkedin.com/in/sprasannaraman
