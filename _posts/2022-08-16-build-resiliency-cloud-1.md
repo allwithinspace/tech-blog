@@ -13,7 +13,7 @@ tags:
 - aws
 ---
 
-### Next-Generation Resiliency 
+### Next-Generation Resiliency
 
 With businesses increasingly transforming to digital and modernizing themselves, its imperative to understand and focus on offering the best user-experience. Also, the digitisation of enterprises have leapfrogged in a past few years and an unprecedented COVID pandemic has made businesses realize the importance of digitisation and having an online presence. To that extent, Cloud plays a very pivotal role in breaking the barriers to innovate and help businesses navigate through this digital transformation process more rapidly. 
 
