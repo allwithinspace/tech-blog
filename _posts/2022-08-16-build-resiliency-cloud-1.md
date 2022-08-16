@@ -3,7 +3,7 @@ layout: post
 title: How to build resiliency in a distributed cloud environment - Part 1
 categories:
 - resiliency
-feature_image: "https://i.picsum.photos/id/392/5580/3720.jpg?hmac=SHJx3DtQS1aAPntmf27wp2mQ5FqQHFKh7hai6wdZSrA"
+feature_image: "https://i.picsum.photos/id/249/3000/2000.jpg?hmac=U2oOCXdXUwt6ftKMC4icF6eS8dGDUZJM_0-qi0JEqjk"
 feature_text: <h2 style="color:white">How to build resiliency in a distributed cloud environment - Part 1</h2> <span
   style="color:white">What is Resiliency and why is it important</span>
 excerpt: ''
