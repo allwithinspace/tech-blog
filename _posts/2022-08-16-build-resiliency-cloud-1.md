@@ -70,7 +70,7 @@ Changes to your infrastructure should be made using automation. The changes that
 
 Resiliency is not just a technical problem to solve, but it is also about the Process, People and Culture. Hence it's important to view Resiliency as a multi-dimensional challenge that requires a holistic solution across architectural attributes such as availability, security, performance and operational attributes such as cloud operations, DevOps, Change management etc. 
 
-### "Cloud" and "Architecting for Resiliency" - match made in heaven
+### "AWS Cloud" and "Architecting for Resiliency" - match made in heaven
 
 There is no better place to design, build and deploy highly resilient workloads than in a Cloud environment. [AWS Cloud](https://aws.amazon.com/) offers the broadest range of services and building blocks for enterprises to architect, build and deploy their workloads in a highly resilient fashion. 
 
