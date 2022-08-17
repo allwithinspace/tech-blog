@@ -18,3 +18,4 @@ aside: false
 - :rocket: Space & Universe :wavy_dash: is really awe-inspiring to me
 - :twisted_rightwards_arrows: Allwithinspace is a symbolic of Infiniteness of space - "that contains everything which itself is infinite" 
 - :bulb: Btw, I'm a patent holder in the area of [Hybrid Cloud Brokerage](https://patents.google.com/patent/US20130198050A1/en)
+- :rotating_light: Blog site Hosted on [Amazon S3](https://aws.amazon.com/s3/), Built using [Jekyll](https://jekyllrb.com/), Adopted Theme [Alembic](https://github.com/daviddarnes/alembic)  
